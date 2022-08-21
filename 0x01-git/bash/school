@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "School"
+=======
+<<<<<<< HEAD
+echo "The school is open!"
+=======
+echo "School"
+>>>>>>> master
+>>>>>>> 36dd855fdc8bfdace4512008d1237facb9465930
